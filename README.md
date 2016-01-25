@@ -26,3 +26,6 @@ I've tried my best to put the source next to each Kata in the line below. If you
 ## TDD Kata
 - KataPotter - calculating discount for bestselling book franchises - from [codingdojo.org](http://codingdojo.org/)
 - PrimeFactors Kata, from [Amirrajan's Blog](http://amirrajan.net/Blog/)
+ 
+## Externally hosted katas
+- Bridge Hand Kata, from [Sean Newham's GitHub](https://github.com/Seanseviltwin/BridgeHandKata)
