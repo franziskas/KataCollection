@@ -11,7 +11,7 @@
 * Users get priority points when donating videos (10 points per title).
 * Library records must include Title, Director, Release year, number of copies.
 * Administrator-level users can create or detele new users
-* Administrator-level users can 
+* Administrator-level users can send emails to all members
 
 ## Use-case Scenarios
 **Scenarios:** User registring to videoclub<br>
